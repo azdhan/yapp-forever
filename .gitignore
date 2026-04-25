@@ -1,0 +1,18 @@
+# PyInstaller output
+dist/
+build/
+*.spec.bak
+
+# Installer output
+installer-dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Config (contains API keys)
+*.txt.bak
+
+# ffmpeg binaries (too large for git)
+ffmpeg.exe
+ffprobe.exe

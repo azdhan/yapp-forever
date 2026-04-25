@@ -1,0 +1,5 @@
+APP_NAME = "Yapp Forever"
+APP_VERSION = "0.1.0"
+APP_PUBLISHER = "Azdhan"
+APP_EXE_NAME = "YappForever.exe"
+APP_ID = "{{A1D5A4E3-5B6E-4D48-9D1E-6F1E9E7C5A21}}"

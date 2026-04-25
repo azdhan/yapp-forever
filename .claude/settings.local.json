@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"/c/Python313/python.exe\" -m PyInstaller --onefile --console --name YappForeverDebug --collect-all customtkinter --hidden-import pystray._win32 --hidden-import win10toast --hidden-import \"scipy.io.wavfile\" --hidden-import \"scipy.io\" yapp_standalone.py)"
+    ]
+  }
+}
